@@ -100,11 +100,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports that include `--dump` output
 ## Star History
 
 <a href="https://www.star-history.com/?repos=ProximoBinks%2Fterminal-manager&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ProximoBinks/terminal-manager&type=date&theme=dark&legend=top-left&sealed_token=AigpH_n4093uf4o32C9umRDgMeHiGqYKvMFX4YzEh2fl6PWuJyeLsO1Asy7g0BCy819iKiRcNTYxEZ-9eC0E6gPogliw1nnARkkypLDH6ucUZZHib6L59VJnR5QP2Vhglp_vGdTK-UvsfLA7i2YLa81ubcP3zV3CegCBxDTHIh2XYbYTka6Lc8ZcWStV" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ProximoBinks/terminal-manager&type=date&legend=top-left&sealed_token=AigpH_n4093uf4o32C9umRDgMeHiGqYKvMFX4YzEh2fl6PWuJyeLsO1Asy7g0BCy819iKiRcNTYxEZ-9eC0E6gPogliw1nnARkkypLDH6ucUZZHib6L59VJnR5QP2Vhglp_vGdTK-UvsfLA7i2YLa81ubcP3zV3CegCBxDTHIh2XYbYTka6Lc8ZcWStV" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ProximoBinks/terminal-manager&type=date&legend=top-left&sealed_token=AigpH_n4093uf4o32C9umRDgMeHiGqYKvMFX4YzEh2fl6PWuJyeLsO1Asy7g0BCy819iKiRcNTYxEZ-9eC0E6gPogliw1nnARkkypLDH6ucUZZHib6L59VJnR5QP2Vhglp_vGdTK-UvsfLA7i2YLa81ubcP3zV3CegCBxDTHIh2XYbYTka6Lc8ZcWStV" />
- </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=proximobinks/terminal-manager&type=date&theme=dark&legend=top-left&sealed_token=AigpH_n4093uf4o32C9umRDgMeHiGqYKvMFX4YzEh2fl6PWuJyeLsO1Asy7g0BCy819iKiRcNTYxEZ-9eC0E6gPogliw1nnARkkypLDH6ucUZZHib6L59VJnR5QP2Vhglp_vGdTK-UvsfLA7i2YLa81ubcP3zV3CegCBxDTHIh2XYbYTka6Lc8ZcWStV" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=proximobinks/terminal-manager&type=date&legend=top-left&sealed_token=AigpH_n4093uf4o32C9umRDgMeHiGqYKvMFX4YzEh2fl6PWuJyeLsO1Asy7g0BCy819iKiRcNTYxEZ-9eC0E6gPogliw1nnARkkypLDH6ucUZZHib6L59VJnR5QP2Vhglp_vGdTK-UvsfLA7i2YLa81ubcP3zV3CegCBxDTHIh2XYbYTka6Lc8ZcWStV" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=proximobinks/terminal-manager&type=date&legend=top-left&sealed_token=AigpH_n4093uf4o32C9umRDgMeHiGqYKvMFX4YzEh2fl6PWuJyeLsO1Asy7g0BCy819iKiRcNTYxEZ-9eC0E6gPogliw1nnARkkypLDH6ucUZZHib6L59VJnR5QP2Vhglp_vGdTK-UvsfLA7i2YLa81ubcP3zV3CegCBxDTHIh2XYbYTka6Lc8ZcWStV" />
+  </picture>
 </a>
 
 ## License
