@@ -1,0 +1,29 @@
+name: Feature request
+description: A change that would make managing Claude Code or Grok Build sessions easier
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is painful today
+      placeholder: I run agents in Cursor and cannot focus those tabs from the menu…
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you want instead
+    validations:
+      required: true
+  - type: dropdown
+    id: cli
+    attributes:
+      label: Which CLI this is for
+      options:
+        - Claude Code
+        - Grok Build
+        - Both
+        - Neither / the app itself
+    validations:
+      required: true

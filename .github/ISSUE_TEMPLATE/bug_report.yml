@@ -1,0 +1,48 @@
+name: Bug report
+description: Something is wrong with scanning, matching, pause, free, or the UI
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A `--dump` snippet is the fastest way to debug matching. Redact paths if you need to.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      placeholder: The menu bar shows 0 sessions after sleep, but grok is still running…
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: dropdown
+    id: cli
+    attributes:
+      label: Which CLI
+      options:
+        - Claude Code
+        - Grok Build
+        - Both
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.2"
+  - type: textarea
+    id: dump
+    attributes:
+      label: `TerminalManager --dump` output
+      render: text
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      placeholder: Screenshot, host (Terminal / VS Code / Cursor), whether this is the /Applications copy…
