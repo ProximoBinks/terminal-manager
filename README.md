@@ -97,9 +97,15 @@ State lives in `~/Library/Application Support/TerminalManager/` (`starred.json`,
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports that include `--dump` output are much easier to act on. This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
-## Star history
+## Star History
 
-GitHub no longer lets anonymous tools read who starred a repo. The live count badge above still works. For a growth chart, open [Star History](https://www.star-history.com/#ProximoBinks/terminal-manager&Date) in the browser (add your own access token there — never commit a token to this repo).
+<a href="https://www.star-history.com/?type=date&repos=ProximoBinks%2Fterminal-manager">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ProximoBinks/terminal-manager&type=date&theme=dark&legend=top-left&sealed_token=m290j_728bq_e3FnhTQJ9d55iSrVQDqOcTheawhDdC8a6P7cewb3EyeG4kyIACM9YhJmQ7IsxCrmvkfxJ_TuE21pOLlLy5g8QvYOVRvoJtUpOD6jBs_pJgMnGMLDxRvTtvAMGL_A7KUptMzlugBx6th7D2AFr9Obi9YyyZVhIw6OOrl_ksxL17AFrfXE" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ProximoBinks/terminal-manager&type=date&legend=top-left&sealed_token=m290j_728bq_e3FnhTQJ9d55iSrVQDqOcTheawhDdC8a6P7cewb3EyeG4kyIACM9YhJmQ7IsxCrmvkfxJ_TuE21pOLlLy5g8QvYOVRvoJtUpOD6jBs_pJgMnGMLDxRvTtvAMGL_A7KUptMzlugBx6th7D2AFr9Obi9YyyZVhIw6OOrl_ksxL17AFrfXE" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ProximoBinks/terminal-manager&type=date&legend=top-left&sealed_token=m290j_728bq_e3FnhTQJ9d55iSrVQDqOcTheawhDdC8a6P7cewb3EyeG4kyIACM9YhJmQ7IsxCrmvkfxJ_TuE21pOLlLy5g8QvYOVRvoJtUpOD6jBs_pJgMnGMLDxRvTtvAMGL_A7KUptMzlugBx6th7D2AFr9Obi9YyyZVhIw6OOrl_ksxL17AFrfXE" />
+ </picture>
+</a>
 
 ## License
 
