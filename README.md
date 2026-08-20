@@ -3,7 +3,6 @@
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black?logo=apple)](https://github.com/ProximoBinks/terminal-manager)
 [![Swift](https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white)](https://www.swift.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Build](https://github.com/ProximoBinks/terminal-manager/actions/workflows/build.yml/badge.svg)](https://github.com/ProximoBinks/terminal-manager/actions/workflows/build.yml)
 [![GitHub stars](https://img.shields.io/github/stars/ProximoBinks/terminal-manager?style=social)](https://github.com/ProximoBinks/terminal-manager/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ProximoBinks/terminal-manager)](https://github.com/ProximoBinks/terminal-manager/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ProximoBinks/terminal-manager)](https://github.com/ProximoBinks/terminal-manager/commits/main)
@@ -100,7 +99,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports that include `--dump` output
 
 ## Star history
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ProximoBinks/terminal-manager&type=Date)](https://www.star-history.com/#ProximoBinks/terminal-manager&Date)
+GitHub no longer lets anonymous tools read who starred a repo. The live count badge above still works. For a growth chart, open [Star History](https://www.star-history.com/#ProximoBinks/terminal-manager&Date) in the browser (add your own access token there — never commit a token to this repo).
 
 ## License
 
